@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FCA311&width=435&lines=Welcome!+My+name+is+Eva+Li!;I+am+a+Fullstack+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCA311&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Welcome!+My+name+is+Eva!;I+am+a+Fullstack+Developer.)](https://git.io/typing-svg)
 
 <p align="center">Recent graduate from Fullstack Academy and became a Software Engineer by honing my skills in Javascript, React, HTML, etc.</p>
 
