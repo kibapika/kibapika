@@ -5,6 +5,9 @@
 
 <h4 align="center">🥑 Fun fact: Previous occupation as a Registered Dieitian and still am registered as one!</h4>
 
+<h4 align="center">🌱 Go check out my Portfolio to learn more about me and fun projects that I have worked on~</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ---
 
 <h3 align="left">Connect with me!</h3>
