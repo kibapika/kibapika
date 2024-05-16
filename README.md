@@ -5,7 +5,7 @@
 
 <h4 align="center">🥑 Fun fact: Previous occupation as a Registered Dieitian and still am registered as one!</h4>
 
-<h4 align="center">🌱 Go check out my <a href="https://main-portfolio-evali.vercel.app/" target="_blank">Portfolio</a> to learn more about me and the fun projects that I have worked on~</h4>
+<h4 align="center">🌱 Go check out my <a href="https://main-portfolio-evali.vercel.app/"">Portfolio</a> to learn more about me and the fun projects that I have worked on~</h4>
 
 ---
 
